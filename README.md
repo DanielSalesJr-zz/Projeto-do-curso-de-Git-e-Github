@@ -1,3 +1,2 @@
-Projeto do curso de Git e Github
- 
+Desenvolvimento de um site utilizando ferramentas do Git e Github.
  
