@@ -1,3 +1,3 @@
-# Projeto🤓s Git e Github
+Projeto do curso de Git e Github
  
  
